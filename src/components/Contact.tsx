@@ -2,7 +2,7 @@ const Contact = () => {
   return (
     <>
       <section className="slide-up delay-300">
-        <div className="px-6 md:px-16 py-16">
+        <div className="px-6 md:px-8 py-8">
           {/* Centered Content */}
           <div className="max-w-3xl mx-auto text-center">
             <h2 className="text-sm tracking-wide mb-8 text-gray-600 font-mono">
@@ -40,8 +40,8 @@ const Contact = () => {
             </div>
             
             <div className="text-sm space-y-1 font-mono">
-              <p>📍 Angeles City, Philippines</p>
-              <p>📞 +639275454838</p>
+              <p> Malolos City, Bulacan, Philippines</p>
+              <p> +639275454838</p>
             </div>
           </div>
         </div>

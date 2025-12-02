@@ -26,6 +26,7 @@ function App() {
 
   return (
     <div className="min-h-screen flex flex-col fade-in relative">
+      <StaticBar />
       <main className="flex-1">
         <div className="container-fluid">
           <Header />

@@ -6,7 +6,7 @@ const Header = () => {
         
         {/* Left - Listening */}
         <div className="flex items-center justify-center md:justify-start gap-2 whitespace-nowrap">
-          <span className="text-sm font-mono">🎧 Listening: SZA</span>
+          <span className="text-sm font-mono"> Status: Open for opportunities</span>
         </div>
 
         {/* Center - Name with double lines */}
@@ -33,7 +33,7 @@ const Header = () => {
             href="https://medium.com/@joshuahermosura"
             target="_blank"
             rel="noopener noreferrer"
-            className="hz-highlight"
+            className="hz-highlight underline"
           >
             Reddit
           </a>
@@ -42,7 +42,7 @@ const Header = () => {
             href="https://github.com/joshuahermosura"
             target="_blank"
             rel="noopener noreferrer"
-            className="hz-highlight"
+            className="hz-highlight underline"
           >
             GitHub
           </a>
@@ -51,7 +51,7 @@ const Header = () => {
             href="https://linkedin.com/in/joshua-hermosura"
             target="_blank"
             rel="noopener noreferrer"
-            className="hz-highlight"
+            className="hz-highlight underline"
           >
             LinkedIn
           </a>

@@ -5,7 +5,7 @@ const Footer = () => {
         <span>© 2025 Joshua Hermosura</span>
         <button 
           onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
-          className="hz-highlight"
+          className="hz-highlight underline"
         >
           Back to Top ↑
         </button>

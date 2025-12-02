@@ -12,22 +12,22 @@ const Hero = () => {
           {/* Bio text */}
           <div className="flex-1">
             <p className="text-2xl md:text-3xl lg:text-4xl leading-relaxed font-serif">
-              Joshua is a <span className="hz-highlight font-semibold">software engineer</span> with{" "}
-              <span className="hz-highlight font-semibold">2+ years of experience</span> building web applications 
+              Joshua is a <span className="font-semibold">software engineer</span> with{" "}
+              <span className="font-semibold">2+ years of experience</span> building web applications 
               and mobile solutions. Most recently, he worked at{" "}
               <a
                 href="https://www.accenture.com"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="hz-highlight font-semibold"
+                className="font-semibold"
               >
                 Accenture
               </a>
               . He's passionate about creating{" "}
-              <span className="hz-highlight font-semibold">intuitive user interfaces</span> and crafting 
+              <span className="font-semibold">intuitive user interfaces</span> and crafting 
               efficient, scalable solutions (like{" "}
-              <span className="hz-highlight font-semibold">React applications</span> and{" "}
-              <span className="hz-highlight font-semibold">modern web experiences</span>) for the industry.
+              <span className="font-semibold">React applications</span> and{" "}
+              <span className="font-semibold">modern web experiences</span>) for the industry.
             </p>
           </div>
 
